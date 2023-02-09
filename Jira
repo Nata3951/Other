@@ -1,1 +1,1 @@
-assignee = currentUser() AND resolution = Unresolved AND (labels is null  OR labels IN (xnm))
+assignee = currentUser() AND resolution = Unresolved AND (labels is null  OR labels NOT IN (xnm))
