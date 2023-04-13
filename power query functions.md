@@ -1,6 +1,6 @@
 ##_NormalDist
 
-'''
+```
 // Gaussian Random Number Generator with mean =mean and standard number as sd using Box-Mueller Transform
 // Add an index column to the table before invoking this function. 
 
@@ -22,4 +22,4 @@ let
 in 
   gaussianrandom
  
-'''
+```
