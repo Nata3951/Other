@@ -1,3 +1,5 @@
+https://excelguru.ca/combine-multiple-excel-workbooks-in-power-query/
+
 ##_NormalDist
 
 ```
